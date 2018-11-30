@@ -20,71 +20,43 @@ Accommodations in suburban North Hollywood are more affordable than in many othe
 The type of buildings and architectural landmarks that formulate a neighborhood often play a direct role in representing the socioeconomic status of the area and its residents. According to Albert, a North Hollywood native of 8 years who agreed to an interview, this physical aspect of the neighborhood has changed over the years. He mentioned that construction in the area is on the rise, particularly the conversion of previously industrial buildings into residential ones. The increase in buildings of this variety certainly encourages the influx of city-working residents with families that are hoping to settle into permanent homes. The influx of such inhabitants has further cemented the neighborhood’s identity as a suburban community. 
 Another influential physical feature of the neighborhood is the hostile architecture, including restricted seating. Hostile architecture including that shown in figure 1 is common in suburban neighborhoods to prevent unwanted individuals, primarily the homeless, from loitering in the area. The residents want to keep their bedroom community as just that, a suburbia untainted by the overcrowding of the city. 
 
-![You change this and put in your own Image title](Figure 1!.png)
+![Figure 1](Figure 1!.png)
    {:.image}
-Figure 1: A section of Judith Bacca's mural, The Great Wall.(http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Figure 1: A park bench sectioned off by rails to restrict seating.
    {:.caption}
 
 With a primarily residential neighborhood comes the need for educational opportunities which can play a fundamental role in shaping a community and its residents. In North Hollywood, the pre-university opportunities, including both public and private institutions, are numerous. With five high schools (three of which are private) and fifteen elementary schools to choose to attend, the neighborhood promotes the education of its youth (LA Times). A high abundance of schools is a key indicator of a suburb as families often choose to settle down on the outskirts of a city where they can raise their kids away from bustling city life, but are still able to commute to work.  Along with the accessibility of education, the quality of educational centers marks a distinction between suburbs and urban areas. Research has shown that suburban schools typically have higher standards of education as well as larger than average financial resources per student (Adkins, 1968). One of two public high schools in the neighborhood, North Hollywood Senior High has a California School Rating (CSR) of eight out of ten, reflecting its high quality (school-ratings.com). Quality schools like this, along with the North Hollywood Adult Learning Center, set the neighborhood apart as a suburban community that encourages education for all its residents. 
 
 A third key contributor to a neighborhood’s cultural identity is the racial makeup of its residents. According to the census data shown in Figure 2, the North Hollywood community is predominantly white (47%) and Hispanic (38%), the remainder of the individuals identifying as Asian (7%) and black (5%).
 
-![You change this and put in your own Image title](images/example1.jpg)
+![Figure 2](Figure 2!.png)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Figure 2: A bar graph showing race and ethnicity census data for North Hollywood.
    {:.caption}
   
 Despite the differing races living in the area, the inhabitants have adopted the single-minded community culture seen in suburbs that shuns differences. The lack of acceptance in deviation from a norm that seems to come with a racially divided community where minorities make up a small fraction of the population comes in the form of racial stereotyping and prejudice. Still, the United States has made great headway towards equality by passing laws and regulations including the Equality Act of 2010. Furthermore, the state of California has been one of the top states leading rising progressive trends that favor equality. While the golden state has been at the forefront of this action for a number of years, racism still persists throughout the state. North Hollywood has had its fair share of incidents of racial prejudice between its community members. Earlier this year, a Hispanic resident of the neighborhood captured a video of a woman telling him she was “tired of Mexicans’ bossy attitudes” when he asked her to pick up after her dog. She told the man to “go back to Mexico” along with other racial insults. This is a deplorable incident that speaks to the societally constructed separation between the racially different residents created by many within the community. In January this year, a similar incident occurred where Jeanne Heo was approached on the metro by a man who yelled racial slurs and degrading insults at her at the North Hollywood stop (Gracie). These unfortunate divisions and toxic beliefs create a less-than-welcoming community for minorities and people of color in which to live. However, the majority of the inhabitants are actively trying to fight the prejudice of a few to create a healthier and welcoming community for all.
   
 One of the most effective approaches to eliminating animosity between polarized groups is to create a common goal. In 1974, Judith Bacca proposed the construction of a mural in North Hollywood depicting California’s history. To turn her dream of a half a mile-long mural into a reality, Bacca recruited more than 400 disadvantaged youth and juvenile offenders from many backgrounds to work on the project. Her hope was to unify the community and establish a connection that would last. About the mural and its formation, Bacca stated, “It's not just history, it's really about relationships—about connecting” (Velimirović). Working alongside their neighbors on the mural brought the people of North Hollywood significantly closer. The actual subject portrayed in the mural also promotes community acceptance and connection, as Baca said, “[it is] a giant monument to interracial harmony” (Risling, 2000). Pictured in the mural are various scenes showing the history of California from diverse and marginalized community perspectives, such as the ones shown in Figure 3 depicting Indian assimilation and Jewish involvement in the arts and sciences.  This serves as retaliation to the rejection of diversity and cultural differences that has taken ahold of the neighborhood of North Hollywood. 
 
-  ![You change this and put in your own Image title](images/example1.jpg)
+  ![Figure 3](Figure 3!.png)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Figure 3: A section of Judith Bacca's mural, The Great Wall.
    {:.caption}
   
 The overwhelming residential conversion of the community along with the rise in housing prices in central Los Angeles, has led to the influx of commuter parents and their children to the areas on the edge of the city. For residents to move into these areas with families there must be an abundance of high-caliber educational options available, like those found in North Hollywood. The result of a highly residential and tightly packed micro-society is a homogeneous culture that ostracizes those who do not conform, regardless of efforts made by community members to encourage acceptance, tolerance, and diversity. These demographic factors undeniably mark North Hollywood as a suburb through and through. Much like the ocean is composed of droplets, a suburb is composed of a great many factors and truly understanding any suburban area requires studying all of its facets.
-
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
-   
-![Blame the Algorithm](images/Blame the Algorithm.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-
-
-
-
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
 
 #### Works cited
 
 {:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
+1. A History of North Hollywood. (n.d.). Retrieved November 18, 2018, from				 https://www.nhnenc.org/a-history-of-north-hollywood
+2. Adelfio, M. (2016, January 01). Socially Sustainable Suburbia: Addressing a Puzzling and		Multifacet... Retrieved November 19, 2018, from							https://journals.openedition.org/articulo/2928
+3. Adkins, A. (1968, December). Inequities Between Suburban and Urban Schools. Retrieved	 	November 21, 2018, from										http://www.ascd.org/ASCD/pdf/journals/ed_lead/el_196812_adkins.pdf
+4. Carrillo, S. (2014, July 10). The Great Wall of Los Angeles: A Window into Our Past. Retrieved		November 17, 2018, from										http://lanetwork.facinghistory.org/the-great-wall-of-los-angeles-a-window-into-our-past/
+5. Gracie, B. (2018, February 12). Racist Trump Supporter Yells 'Go Back to Asia' at Woman		Before Getting Punched By a Bystander. Retrieved November 17, 2018, from			https://www.complex.com/life/2018/02/racist-trump-						supporter-yells-slurs-at-woman-before-bystander-punches-him
+6. Great Wall of Los Angeles (Mural) (U.S. National Park Service). (2018, August 9). Retrieved		November 21, 2018, from https://www.nps.gov/places/great-wall-of-los-angeles.htm
+7. Greg Risling | Special to the Times. (2000, October 30). Mural Restoration Paints Bright Future.		Retrieved November 18, 2018, from									http://articles.latimes.com/2000/oct/30/local/me-44271
+8. Jones, T. (2018, March 23). Californians Doing The Once-Unthinkable: Leaving California.		Retrieved November 19, 2018, from									https://www.investors.com/politics/editorials/californians-						doing-the-once-unthinkable-leaving-california/
+9. MacBride, M. (2018, March 10). Mexicans 'think they own America'; racist rant caught on video.		Retrieved November 17, 2018, from							 		https://abc7.com/society/mexicans-think-they-own-america;-racist- 				rant-caught-on-video/3194459/
+10. Mitchell, D. J. (2018, March 05). Can California Survive a Middle-Class Exodus? | Daniel J.		Mitchell. Retrieved November 19, 2018, from							https://fee.org/articles/can-california-survive-a-middle-class-exodus/
+11. North Hollywood. (2018). Retrieved November 21, 2018, from						http://maps.latimes.com/neighborhoods/neighborhood/north-hollywood/schools/
