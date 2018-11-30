@@ -20,16 +20,16 @@ Accommodations in suburban North Hollywood are more affordable than in many othe
 The type of buildings and architectural landmarks that formulate a neighborhood often play a direct role in representing the socioeconomic status of the area and its residents. According to Albert, a North Hollywood native of 8 years who agreed to an interview, this physical aspect of the neighborhood has changed over the years. He mentioned that construction in the area is on the rise, particularly the conversion of previously industrial buildings into residential ones. The increase in buildings of this variety certainly encourages the influx of city-working residents with families that are hoping to settle into permanent homes. The influx of such inhabitants has further cemented the neighborhood’s identity as a suburban community. 
 Another influential physical feature of the neighborhood is the hostile architecture, including restricted seating. Hostile architecture including that shown in figure 1 is common in suburban neighborhoods to prevent unwanted individuals, primarily the homeless, from loitering in the area. The residents want to keep their bedroom community as just that, a suburbia untainted by the overcrowding of the city. 
 
-![Figure 1](Figure 1!.png)
-   {:.image}
+![Figure 1](images/Figure 1!.png)
+{:.image}
 Figure 1: A park bench sectioned off by rails to restrict seating.
-   {:.caption}
+{:.caption}
 
 With a primarily residential neighborhood comes the need for educational opportunities which can play a fundamental role in shaping a community and its residents. In North Hollywood, the pre-university opportunities, including both public and private institutions, are numerous. With five high schools (three of which are private) and fifteen elementary schools to choose to attend, the neighborhood promotes the education of its youth (LA Times). A high abundance of schools is a key indicator of a suburb as families often choose to settle down on the outskirts of a city where they can raise their kids away from bustling city life, but are still able to commute to work.  Along with the accessibility of education, the quality of educational centers marks a distinction between suburbs and urban areas. Research has shown that suburban schools typically have higher standards of education as well as larger than average financial resources per student (Adkins, 1968). One of two public high schools in the neighborhood, North Hollywood Senior High has a California School Rating (CSR) of eight out of ten, reflecting its high quality (school-ratings.com). Quality schools like this, along with the North Hollywood Adult Learning Center, set the neighborhood apart as a suburban community that encourages education for all its residents. 
 
 A third key contributor to a neighborhood’s cultural identity is the racial makeup of its residents. According to the census data shown in Figure 2, the North Hollywood community is predominantly white (47%) and Hispanic (38%), the remainder of the individuals identifying as Asian (7%) and black (5%).
 
-![Figure 2](Figure 2!.png)
+![Figure 2](images/Figure 2!.png)
    {:.image}
 Figure 2: A bar graph showing race and ethnicity census data for North Hollywood.
    {:.caption}
@@ -38,7 +38,7 @@ Despite the differing races living in the area, the inhabitants have adopted the
   
 One of the most effective approaches to eliminating animosity between polarized groups is to create a common goal. In 1974, Judith Bacca proposed the construction of a mural in North Hollywood depicting California’s history. To turn her dream of a half a mile-long mural into a reality, Bacca recruited more than 400 disadvantaged youth and juvenile offenders from many backgrounds to work on the project. Her hope was to unify the community and establish a connection that would last. About the mural and its formation, Bacca stated, “It's not just history, it's really about relationships—about connecting” (Velimirović). Working alongside their neighbors on the mural brought the people of North Hollywood significantly closer. The actual subject portrayed in the mural also promotes community acceptance and connection, as Baca said, “[it is] a giant monument to interracial harmony” (Risling, 2000). Pictured in the mural are various scenes showing the history of California from diverse and marginalized community perspectives, such as the ones shown in Figure 3 depicting Indian assimilation and Jewish involvement in the arts and sciences.  This serves as retaliation to the rejection of diversity and cultural differences that has taken ahold of the neighborhood of North Hollywood. 
 
-  ![Figure 3](Figure 3!.png)
+  ![Figure 3](images/Figure 3!.png)
    {:.image}
 Figure 3: A section of Judith Bacca's mural, The Great Wall.
    {:.caption}
